@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon the rebuilding the city the right honourable the Lord Mayor, and the noble company of bachelors dining with him, May 5th. 1669.</title>
+            <author>Wild, Robert, 1609-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96490</idno>
+            <idno type="STC">Wing W2152</idno>
+            <idno type="STC">ESTC R226750</idno>
+            <idno type="EEBO-CITATION">99895248</idno>
+            <idno type="PROQUEST">99895248</idno>
+            <idno type="VID">152774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2320:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Upon the rebuilding the city the right honourable the Lord Mayor, and the noble company of bachelors dining with him, May 5th. 1669.</title>
+                  <author>Wild, Robert, 1609-1679.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Wild by Wing and NUC pre-1956 imprints.</note>
+                  <note>Verse - "Nor could Prometheus, when he would have stole".</note>
+                  <note>In this edition 'stole' is on the first line. Another edition has 'stole' below 'have' on the second line.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:152774:1"/>
+            <head>UPON THE REBUILDING the CITY, The Right Honourable the Lord Mayor, AND THE Noble Company of Bachelors Dining with Him, <date>May 5<hi rend="sup">th</hi> 1669.</date>
+            </head>
+            <lg>
+               <l>NOr could <hi>Prometheus,</hi> when he would have ſtole</l>
+               <l>From jealous <hi>Jupiter</hi> a living cole</l>
+               <l>To animate his well diſſembled clay,</l>
+               <l>Either prevail, or go unplagu'd away,</l>
+            </lg>
+            <lg>
+               <l>Nor when proud Nature to recruit the earth</l>
+               <l>And brave Heaven, brought forth <hi>Giants</hi> at each birth,</l>
+               <l>(Thoſe ſtalking <hi>Mountains,</hi> ſons of ſlime and mud</l>
+               <l>The Reliques of the univerſal Floud)</l>
+               <l>Setting them all to work, as ſoon as born</l>
+               <l>Then when their <hi>Highneſſes,</hi> did not think ſcorn</l>
+               <l>To tread the <hi>Mortar,</hi> and were <hi>Maſons</hi> made,</l>
+               <l>And <hi>Bricklayers—</hi>the only thriving Trade,</l>
+               <l>Though they deſign'd, with high and pointed Towers</l>
+               <l>To pierce and ſtab thoſe clouds, whoſe mighty ſhowers</l>
+               <l>Had drown'd their Fathers, and to climb ſo high,</l>
+               <l>Till they pickt Stars (like Cowſlips) from the sky,</l>
+               <l>Could they prevent their fooliſh <hi>Babels</hi> fall,</l>
+               <l>But were turn'd <hi>canting, wandring Gypſies</hi> all.</l>
+            </lg>
+            <lg>
+               <l>Nor ſhalt thou better ſpeed (proud <hi>Rome)</hi> not Thou,</l>
+               <l>Though thou haſt carried Empire on thy brow,</l>
+               <l>And with thy <hi>Canons</hi> made all Monarchs quake</l>
+               <l>As thunder doth the trembling Mountains ſhake:</l>
+               <l>No, though thy head, thy lofty head thou raiſe</l>
+               <l>To try thy horned ſtrength with <hi>Cynthia's.</hi>
+               </l>
+               <l>No <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Father be the Prince of th'Air<g ref="char:punc">▪</g>
+               </l>
+               <l>And w<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> thee doth his vaſt Dominion ſhare;</l>
+               <l>No, though thy Eagles wings thou ſtretch as wide</l>
+               <l>As <hi>Sol</hi> his beams, or <hi>Neptune</hi> doth his Tyde;</l>
+               <l>No, though thy greedy cruel breed be nurſt</l>
+               <l>With the ſame milk thy Founder ſuckt at firſt;</l>
+               <l>And though thy zeal (Ah, curſed zeal!) aſpire</l>
+               <l>To raiſe thy <hi>Pope,</hi> great <hi>Pyramids</hi> of fire,</l>
+               <l>From burned Cities; yet thy ſelf (proud Dame)</l>
+               <l>Who burnt with <hi>Sodoms</hi> luſt, ſhalt with her flame.</l>
+               <l>Where are thy <hi>Fauxes</hi> in their dark diſguiſe,</l>
+               <l>Incendiary Prieſts, and ſubtile Spies,</l>
+               <l>Who when our <hi>Londons</hi> fiery tryal came,</l>
+               <l>Like <hi>Salamanders</hi> feaſted in the flame,</l>
+               <l>And curſt the hands that firſt ſhould lay a Brick</l>
+               <l>Tow'rds the rebuilding that grand <hi>Heretick;</hi>
+               </l>
+               <l>Who when great <hi>Greſhams</hi> ſpicy neſt conſum'd</l>
+               <l>(Though the immortal founder ſtood perfum'd</l>
+               <l>In the rich Incenſe) hug'd themſelves to ſee</l>
+               <l>Our Monarchs martyr'd in <hi>Effigie.</hi>
+               </l>
+               <l>Now let them ſtare and ſtartle at the ſight,</l>
+               <l>And Bark as Curs do at the Moons fair light:</l>
+               <l>Let them not boaſt their <hi>Charls la Grand, la Boon,</hi>
+               </l>
+               <l>
+                  <hi>Great Brittain</hi> can outſhine them both in <hi>One,</hi>
+               </l>
+               <l>A Prince of far more gracious intents</l>
+               <l>Then all thy <hi>Urbans, Clements, Innocents,</hi>
+               </l>
+               <l>Upon whoſe head ſhall ſtand a <hi>Tripple</hi> Crown,</l>
+               <l>When thy grand Tyrants ſhall be tumbled down.</l>
+               <l>Still on our <hi>Thames</hi> ſhall noble Barges ride,</l>
+               <l>When <hi>Tyber</hi> to a Ditch ſhall ſhrink her pride.</l>
+               <l>Our <hi>Lions</hi> ſtill are <hi>Rampant,</hi> and our <hi>Roſe</hi>
+               </l>
+               <l>Yields her friends ſweetneſs, prickles to our foes:</l>
+               <l>Our Citizens ſhall feaſt in their <hi>Guild-Hall,</hi>
+               </l>
+               <l>And eat <hi>Geeſe—</hi>Patrons of thy <hi>Capital.</hi>
+               </l>
+               <l>Juſtice and Mercy now ſhall guard her ſtore,</l>
+               <l>And her <hi>Mock-Giants</hi> ſhe ſhall need no more.</l>
+               <l>
+                  <hi>Th'Exchange</hi> that Royal Infant, ſhortly will</l>
+               <l>Her own and forreign Language ſpeak with skill;</l>
+               <l>And on that <hi>Acre</hi> the Noon S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhall ſee</l>
+               <l>All his long Travels in Epitomie:</l>
+               <l>We have our <hi>Newgate</hi> and old <hi>Tyburn</hi> too,</l>
+               <l>Ready to ſerve their <hi>Turns</hi> who <hi>turn</hi> to you.</l>
+            </lg>
+            <lg>
+               <l>Kind Heaven and all the Elements conſpire</l>
+               <l>(And ſuch conſpiracy's we may deſire)</l>
+               <l>To make our City fairer, ſtronger, higher,</l>
+               <l>The Sun gets up each morn at peep of day</l>
+               <l>To overſee the Work, and late doth ſtay</l>
+               <l>Before he lets the Labourers retreat,</l>
+               <l>As if he undertook the work by <hi>th'Great.</hi>
+               </l>
+               <l>The Earth gives clay, the water moiſtens it;</l>
+               <l>The gentle Air tempers, and makes it fit,</l>
+               <l>And then the fire, as if it meant to make</l>
+               <l>Full ſatisfaction, and revenges take</l>
+               <l>Upon it ſelf, (though in a ſmother'd way</l>
+               <l>As modeſt Thieves their injuries repay)</l>
+               <l>Works in the <hi>Brick-kilne,</hi> works till it grow ſick,</l>
+               <l>And fainting dyes, leaving on every <hi>Brick</hi>
+               </l>
+               <l>And every <hi>Tyle</hi> a laſting <hi>Bluſh<g ref="char:punc">▪</g>
+                  </hi> as who</l>
+               <l>Would ſay, for former <hi>Miſchiefs</hi> this I do.</l>
+            </lg>
+            <lg>
+               <l>Nor doth the Sun alone the Work o're ſee,</l>
+               <l>But there is <hi>One</hi> as vigilant as he,</l>
+               <l>
+                  <hi>A Pious, Loyal, Wiſe, Juſt May</hi>'r, a Lord</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Zerubbabel</hi> with awful ſword</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <hi>Trowel,</hi> whoſe ſweet voice hath powers</l>
+               <l>(As <hi>Orpheus</hi> had to raiſe his <hi>T<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eban</hi> Towers)</l>
+               <l>To make the teeming bowels of the earth</l>
+               <l>Shoot up new <hi>Buildings</hi> by an eaſie <hi>birth.</hi>
+               </l>
+               <l>He guards the <hi>Sab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aths</hi> with <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> holy care,</l>
+               <l>And bleſſeth all the Week by that <hi>Dayes</hi> praye'r;</l>
+               <l>His <hi>Magiſtracy</hi> lies not in his Train,</l>
+               <l>His ſtately Steed, his Scarlet, or his Chain;</l>
+               <l>He, and his Sword in Velvet faſt aſleep,</l>
+               <l>But watchful, God's peace and the Kings to keep;</l>
+               <l>With a ſtrict hand the Ballance he doth hold,</l>
+               <l>Trying the <hi>Cauſe</hi> how weighty, not the Gold:</l>
+               <l>As he with Virtue meets, or with Offence,</l>
+               <l>So do his looks or ſmiles, or frowns diſpence;</l>
+               <l>His ſmoother Chine carrying as grave a grace,</l>
+               <l>As the <hi>Dioceſans</hi> well bearded face.</l>
+            </lg>
+            <lg>
+               <l>Boaſt on <hi>(old Beldame Rome)</hi> and brag—Thou haſt</l>
+               <l>Thouſands of Sons and Daughters pure and chaſt,</l>
+               <l>Yet thou ſhalt find for all their <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngle Lives,</l>
+               <l>But little <hi>Virgin Honey</hi> in their <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ives:</hi>
+               </l>
+               <l>Thoſe thieviſh <hi>Drones</hi> thy <hi>Fryars</hi> without wings,</l>
+               <l>Creep to thy <hi>Nuns,</hi> and leave behind their <hi>ſtings.</hi>
+               </l>
+               <l>Thou haſt thy <hi>Joan's</hi> as well as <hi>Popes—</hi>Fame ſayes,</l>
+               <l>Thy <hi>Innocents</hi> have their <hi>Olimp<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But <hi>London</hi> which the Nuptia<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Band allows,</l>
+               <l>And hates to lock her Virgins u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Vows,</l>
+               <l>Can glory in her <hi>Batchelor Lord May'r,</hi>
+               </l>
+               <l>Chaſt as the <hi>Dove,</hi> though of the <hi>Ravens Hair:</hi>
+               </l>
+               <l>The <hi>Widow City</hi> is his <hi>Spouſe—</hi>and He</l>
+               <l>Cares for her <hi>Children</hi> and great <hi>Family;</hi>
+               </l>
+               <l>Nor doth he ſtand (although he lies) alone</l>
+               <l>(He were a <hi>Phoenix</hi> if he were but <hi>One)</hi>
+               </l>
+               <l>But as the <hi>Moon,</hi> when ſhe her progreſs goes,</l>
+               <l>The <hi>Court of Stars,</hi> as her Attendants ſhows:</l>
+               <l>So when <hi>Beloved Turner</hi> pleaſe to call,</l>
+               <l>Great Troops of <hi>Batchelors</hi> adorn his Hall;</l>
+               <l>None <hi>male content,</hi> and yet <hi>M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Virgins</hi> all)</l>
+               <l>On <hi>May's</hi> fifth day (Oh, twas a wondrous ſight!)</l>
+               <l>Three hundred <hi>Virgins, Virgins</hi> day and night;</l>
+               <l>
+                  <hi>Virgins</hi> in <hi>Breeches, Virgins</hi> all as true,</l>
+               <l>As ſhe for whom <hi>Saint George</hi> the <hi>Dragon</hi> ſlew;</l>
+               <l>Some hoary old, ſome young, but all were chaſt</l>
+               <l>Either above, or underneath the waſt;</l>
+               <l>None of them had they been in <hi>Scottiſh</hi> School,</l>
+               <l>Had <hi>grunted</hi> in the <hi>Penitential Stool;</hi>
+               </l>
+               <l>None, had they liv'd in times of <hi>Commutation,</hi>
+               </l>
+               <l>Had pay'd a ſtone to <hi>Pauls</hi> for <hi>Fornication.</hi>
+               </l>
+               <l>None from an <hi>Ordeal</hi> Tryal need to fly</l>
+               <l>That <hi>Purgatory fire</hi> of Chaſtity;</l>
+               <l>None free of <hi>Creſwel Colledge,</hi> not a Man</l>
+               <l>Need fear to meet a <hi>Nurſe</hi> or ſome <hi>Trappan;</hi>
+               </l>
+               <l>None of them all, (for ought the Poet knows)</l>
+               <l>Wears (though anothers Hair) anothers Noſe.</l>
+               <l>My <hi>Lord</hi> himſelf, and all his Gueſts, I think</l>
+               <l>In the ſame Cup, might without danger drink;</l>
+               <l>Yet none, (if called lawfully) but can</l>
+               <l>Beget a Son, may prove an <hi>Ald<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe Sons of Peace, and Sons of <hi>Mars,</hi> if <hi>Charls</hi>
+               </l>
+               <l>Pleaſe to take notice of his <hi>Neighbours</hi> ſnarls</l>
+               <l>Came not to ſhew their Valour in his Hall,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Cuſtard,</hi> batter <hi>Paſty Wall:</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their <hi>Teeth</hi> or <hi>Kn<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s</hi> were ſharpeſt ſet:</l>
+               <l>To take the <hi>Red-coat-Lobſt<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> by the back</l>
+               <l>And with bold hands, thei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> clattering <hi>Armour</hi> crack;</l>
+               <l>But their chief errand was <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o pray he would</l>
+               <l>Command their Perſons a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> accept their <hi>Gold.</hi>
+               </l>
+               <l>And if their Votes and m<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e were current, He</l>
+               <l>Should their <hi>Perpetual Dictator</hi> be.</l>
+               <l>But if the ſcarlet <hi>Sphere</hi> m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt turn about</l>
+               <l>(Though turning round makes giddy heads I doubt)</l>
+               <l>Yet his <hi>Exemplar</hi> Govern<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent ſhall ſtand,</l>
+               <l>And teach Succeſſors how they ſhould command.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Virgin Queen,</hi> and <hi>Bachelor Lord Mayor,</hi>
+               </l>
+               <l>To <hi>England</hi> are as proſperous as rare,</l>
+               <l>She made the <hi>City</hi> love the <hi>Court,</hi> and He</l>
+               <l>The <hi>Court</hi> the <hi>City</hi> by his Loyalty.</l>
+               <l>He a wiſe Imitator of his King,</l>
+               <l>Finds <hi>Moderation</hi> is a Healing thing.</l>
+            </lg>
+            <lg>
+               <l>Oh, if our <hi>Churches Ove<gap reason="illegible" resp="#OXF" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>s</hi> would yeild</l>
+               <l>And let poor Labourers co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e forth and build,</l>
+               <l>Such as <hi>Untempred Mortar</hi> dare not uſe,</l>
+               <l>Nor for Foundations, <hi>ſtraw</hi> and <hi>ſtubble</hi> chuſe;</l>
+               <l>Though every ſtone <hi>acroſs</hi> they do not lay,</l>
+               <l>But ſome work one, and ſome another way,</l>
+               <l>Our <hi>New Jeruſalem</hi> ſhould <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> behold</l>
+               <l>
+                  <hi>Sion</hi> in glory, though it wanted <hi>Gold.</hi>
+               </l>
+               <l>
+                  <hi>Hard</hi> upon <hi>Hard,</hi> no laſting work will make,</l>
+               <l>Nor can one <hi>Flint</hi> another kindly break:</l>
+               <l>But <hi>Moderation</hi> is a <hi>Cement ſure,</hi>
+               </l>
+               <l>'Tis that which makes the <hi>Univerſe</hi> endure:</l>
+               <l>That makes our <hi>Climate</hi> prove a <hi>temperate Zone</hi>
+               </l>
+               <l>Betwixt the <hi>Torrid,</hi> and the <hi>Frigid</hi> One.</l>
+               <l>If we all build up <hi>Pater-Noſter-Row,</hi>
+               </l>
+               <l>We may let <hi>Ave-Mary-Corner</hi> go;</l>
+               <l>
+                  <hi>Black</hi> and <hi>White Friars</hi> did together ſtand,</l>
+               <l>And may again, if Wiſdom might command,</l>
+               <l>If not, I'le ſay no more, but this will ſwear,</l>
+               <l>
+                  <hi>Bedlam</hi> and <hi>Biſhopſgate</hi> near Neighbours are.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year 1669.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
